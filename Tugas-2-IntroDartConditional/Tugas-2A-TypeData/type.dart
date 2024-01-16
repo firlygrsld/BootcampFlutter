@@ -51,16 +51,16 @@
 
 // SOAL NO 3
 
-import 'dart:io';
+// import 'dart:io';
 
-void main(List<String> args) {
-  print("Masukkan nama depan = ");
-  String? namaDepan = stdin.readLineSync();
-  print("Masukkan nama belakang = ");
-  String? namaBelakang = stdin.readLineSync();
+// void main(List<String> args) {
+//   print("Masukkan nama depan = ");
+//   String? namaDepan = stdin.readLineSync();
+//   print("Masukkan nama belakang = ");
+//   String? namaBelakang = stdin.readLineSync();
 
-  print("Nama lengkap anda adalah = ${namaDepan} ${namaBelakang}");
-}
+//   print("Nama lengkap anda adalah = ${namaDepan} ${namaBelakang}");
+// }
 
 // soal no 4
 
