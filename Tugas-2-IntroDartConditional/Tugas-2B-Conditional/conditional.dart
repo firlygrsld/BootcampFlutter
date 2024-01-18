@@ -179,8 +179,4 @@
 //   }
 
 //   print("${tanggal} ${NamaBulan} ${tahun}");
-<<<<<<< HEAD
 //}
-=======
-//}
->>>>>>> 6b5d2a641241301a15702be79c2dac6283b4e3cd
