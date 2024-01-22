@@ -1,7 +1,5 @@
 class Segitiga {
-  double? setengah;
-  double? alas;
-  double? tinggi;
+  double? setengah, alas, tinggi;
 
   void setSetengah(double value) {
     if (value < 0) {
