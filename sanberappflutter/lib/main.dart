@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tugas/Tugas9/Telegram.dart';
+import 'tugas/Tugas10/LoginScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      home: Telegram(),
+      home: LoginScreen(),
     );
   }
 }
