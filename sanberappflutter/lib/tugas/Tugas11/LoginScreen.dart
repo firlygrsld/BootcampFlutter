@@ -13,21 +13,6 @@ class LoginScreen extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset(
-                "assets/img/logo.png",
-                height: 80,
-                width: 80,
-              ),
-              const SizedBox(
-                height: 10,
-              ),
-              const Text(
-                "JobFinder",
-                style: TextStyle(
-                    fontSize: 30,
-                    fontWeight: FontWeight.w800,
-                    color: Color(0xff475BD8)),
-              ),
               const SizedBox(
                 height: 10,
               ),
