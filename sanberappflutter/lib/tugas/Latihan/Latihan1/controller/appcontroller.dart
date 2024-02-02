@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:sanberappflutter/tugas/Latihan/Latihan1/model/postmodel.dart';
 import 'package:sanberappflutter/tugas/Latihan/Latihan1/services/services.dart';
 import 'package:get/get.dart';
